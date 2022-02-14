@@ -1,5 +1,5 @@
 const Data = {
-  password: "asystresources",
+  password: "password123",
   database: "vente",
 };
 
